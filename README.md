@@ -1,4 +1,5 @@
-## Link to hosted app
+## Recipes and Shopping List App Udemy Course
+### Link to hosted app
 https://ng-course-recipe-book-4bf48.web.app/auth
 
 The Recipes and Shopping List app, developed with Angular and Firebase, allows users to create, view, and manage recipes as well as generate personalized shopping lists and modify them.
